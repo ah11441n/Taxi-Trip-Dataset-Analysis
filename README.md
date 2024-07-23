@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 # Taxi Trip Dataset Analysis
 
 ## Overview
 
+=======
+**Taxi Trip Dataset Analysis**
+Overview
+>>>>>>> 5581e686b15a4864d7bada91bddce45c0388c57e
 This repository contains a comprehensive analysis and preprocessing of a large taxi trip dataset, originally comprising 3,007,687 rows and 20 columns. The dataset includes detailed information about each taxi trip, such as vendor ID, pickup and dropoff times, passenger count, trip distance, location IDs, rate codes, payment types, and various charges.
 
 ## Dataset Details
