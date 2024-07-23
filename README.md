@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Taxi Trip Dataset Analysis
 
 ## Overview
